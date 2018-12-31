@@ -10,6 +10,12 @@ npm install --save 375to320
 
 ## Usage
 
-```
+```js
 import '375to320'
+```
+
+or
+
+```html
+<script src="path/to/375to320.min.js"></script>
 ```
