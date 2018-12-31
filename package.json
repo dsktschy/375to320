@@ -1,0 +1,24 @@
+{
+  "name": "375to320",
+  "version": "1.0.0",
+  "description": "If the screen width of the device is less than 375px (e.g. 320px), this script will fix viewport width to 375px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsktschy/375to320.git"
+  },
+  "keywords": [
+    "viewport",
+    "375",
+    "320"
+  ],
+  "author": "dsktschy (https://github.com/dsktschy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsktschy/375to320/issues"
+  },
+  "homepage": "https://github.com/dsktschy/375to320#readme"
+}
