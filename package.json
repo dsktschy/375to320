@@ -13,7 +13,10 @@
   "keywords": [
     "viewport",
     "375",
-    "320"
+    "320",
+    "media",
+    "query",
+    "queries"
   ],
   "author": "dsktschy (https://github.com/dsktschy)",
   "license": "MIT",
