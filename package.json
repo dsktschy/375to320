@@ -1,6 +1,6 @@
 {
   "name": "375to320",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "If the screen width of the device is less than 375px (e.g. 320px), this script will fix viewport width to 375px",
   "main": "src/index.js",
   "scripts": {
