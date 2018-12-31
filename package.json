@@ -2,9 +2,9 @@
   "name": "375to320",
   "version": "1.0.0",
   "description": "If the screen width of the device is less than 375px (e.g. 320px), this script will fix viewport width to 375px",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "minify": "terser index.js -o 375to320.min.js -m -c"
+    "minify": "terser src/index.js -o dist/375to320.min.js -m -c"
   },
   "repository": {
     "type": "git",
